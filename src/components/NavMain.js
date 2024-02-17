@@ -10,8 +10,8 @@ function NavMain() {
     <nav className="grid1">
       <ul>
         <li><a className="current" href="index.html">Home</a></li>
-        <li><a href="about.html">About Me</a></li>
-        <li><a href="contact.html">Contact Me</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
         
       </ul>
     </nav>
