@@ -10,3 +10,7 @@ https://www.linkedin.com/posts/ozioma1-michael_careernized-logo-activity-7166266
 * Screenshot to Careernized Landing Page
 https://docs.google.com/document/d/1GmNC_GqLncBzXw4ib0M9QRyW0EbVIsfmmdrgPSxzCVQ/edit?usp=sharing
 
+Authors
+Ozioma Michael
+Charles Onalo
+
